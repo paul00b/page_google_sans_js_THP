@@ -1,8 +1,72 @@
-/* CODE MAXIME */
+.navbar {
+	text-align: right;
+}
 
+li {
+	display: inline;
+	padding-left: 5px;
+}
 
-/* FIN CODE MAXIME */
+ul {
+	padding-right: 5px;
+}
 
+#connexion-btn {
+	background-color: #4885ed;
+	border: none;
+	width: 80px;
+	color: white;
+	height: 35px;
+}
+
+.fa-th {
+	font-size: 1.2em;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: #757575;
+    background: #f2f2f2;
+    padding-bottom: 15px;
+    border-top: 1px solid rgba(11, 11, 11, 0.2);
+    font-size: 12px;
+}
+
+.right {
+	text-align: right;
+    display: table-cell;
+    white-space: nowrap;
+    padding-right: 15px;
+}
+
+.left {
+	display: table-cell;
+    width: 100%;
+}
+
+a {
+	padding-left: 15px;
+	color: #757575;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+body {
+	margin:0;
+  font-family: Arial;
+  font-size: 13px;
+}
+
+#country {
+	padding-left: 15px;
+	border-bottom: 1px solid rgba(11, 11, 11, 0.2);
+	padding-bottom: 10px;
+}
 
 #logo-google
     {
@@ -41,7 +105,7 @@ filter:progid:DXImageTransform.Microsoft.Shadow(color=#cfcfcf, Direction=180, St
 #boutons
 {
   display: block;
-  text-align: -webkit-center;
+  text-align: center;
   margin-top:20px;
 }
 .bouton-recherche
