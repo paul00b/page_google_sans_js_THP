@@ -1,0 +1,78 @@
+/* CODE MAXIME */
+
+
+/* FIN CODE MAXIME */
+
+
+#logo-google
+    {
+      background-image: url(https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png );
+      background-repeat: none;
+      margin-top: 50px;
+      margin :0 auto;
+      width : 272px;
+      height: 92px;
+      text-align: center;
+    }
+
+#barrerecherche
+{
+  margin-top:20px;
+  margin-left:30%;
+  margin-right: 30%;
+  height : 40px;
+  box-shadow: 0px 5px 10px 0px #cfcfcf;
+filter:progid:DXImageTransform.Microsoft.Shadow(color=#cfcfcf, Direction=180, Strength=10);
+
+}
+#barrerecherche:hover
+{
+  box-shadow: 0px 5px 10px 0px #9b9b9b;
+  filter:progid:DXImageTransform.Microsoft.Shadow(color=#9b9b9b, Direction=180, Strength=10);
+
+}
+
+#writing-zone
+{
+  width:100%;
+  border:0.5px solid white;
+  height:inherit;
+}
+#boutons
+{
+  display: block;
+  text-align: -webkit-center;
+  margin-top:20px;
+}
+.bouton-recherche
+{
+  -webkit-border-radius: 1;
+  -moz-border-radius: 1;
+  border-radius: 1px;
+  font-family: Arial;
+  color: #757575;
+  font-size: 13px;
+  background: #f2f2f2;
+  padding: 10px 20px 10px 20px;
+  border: solid #f2f2f2 2px;
+  text-decoration: none;
+  min-width: 54px;
+  text-align: center;
+  margin: 11px 4px;
+  height:36px;
+}
+
+.bouton-recherche:hover
+{
+  box-shadow: 0px 1px 2px 0px #9b9b9b;
+  filter:progid:DXImageTransform.Microsoft.Shadow(color=#9b9b9b, Direction=180, Strength=5);
+  font-weight: bold ;
+
+}
+
+#text-ss-btn
+{
+  text-align:center;
+  margin-top:10px;
+  color: #757575;
+}
