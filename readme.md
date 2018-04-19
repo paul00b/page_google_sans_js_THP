@@ -1,7 +1,7 @@
 # Page google version HTML sans JS
 Auteurs
   - <a href="https://github.com/E-Maxou">Maxime Elkael</a>
-  - <a hre="https://rawgit.com/paul00b">Paul Broussolle</a>
+  - <a href="https://rawgit.com/paul00b">Paul Broussolle</a>
 
 ### What's the point ?
 
@@ -18,4 +18,4 @@ Le fichier index est divisé en plusieurs partie : un header (en haut), un main 
 
 ### Acknowledgments
 
-Réalisé au cours de la <a hre="https://www.thehackingproject.org/">formation THP</a> avec du love !
+Réalisé au cours de la <a href="https://www.thehackingproject.org/">formation THP</a> avec du love !
