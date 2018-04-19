@@ -1,5 +1,5 @@
 # Page google version HTML sans JS
-Auteurs
+### Auteurs
   - <a href="https://github.com/E-Maxou">Maxime Elkael</a>
   - <a href="https://rawgit.com/paul00b">Paul Broussolle</a>
 
