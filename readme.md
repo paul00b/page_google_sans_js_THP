@@ -3,6 +3,8 @@
   - <a href="https://github.com/E-Maxou">Maxime Elkael</a>
   - <a href="https://rawgit.com/paul00b">Paul Broussolle</a>
 
+  Version online : https://rawgit.com/paul00b/pagegoogle/master/index.html
+
 ### What's the point ?
 
 Reproduire la page d'accueil google, sans javascript. Ce qui veux dire que la barre de recherche, par exemple, ne fonctionne pas.
